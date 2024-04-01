@@ -1,7 +1,5 @@
-// YASVIN SYAHGANA
-// 2311102065
 #include <iostream>
-using namespace std;
+#using namespace std;
 // Deklarasi Struct Node
 struct Node {
   // komponen/member
